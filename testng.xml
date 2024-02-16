@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Magnto Ecommerce Application Test Suite">
+	<test thread-count="5" name="Magnto Ecommerce App Test Cases">
+		<classes>
+			<class name="com.ecom.testcases.SignInPageTest" />
+			<class name="com.ecom.testcases.HomePageTest" />
+			<class name="com.ecom.testcases.JacketsPageTest" />
+			<class name="com.ecom.testcases.ProdutDescriptionTest" />
+			<class name="com.ecom.testcases.CheckoutPageTest" />
+
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
