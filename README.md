@@ -1,6 +1,6 @@
 # Automated E-commerce Web Application Testing
 
-This project demonstrates automated testing of an e-commerce web application using Selenium WebDriver, Java, and TestNG. The automation framework is designed to test essential functionalities across various pages of the [e-commerce web application](https://magento.softwaretestingboard.com/), ensuring reliability and efficiency in the testing process.
+This project demonstrates automated testing of an e-commerce web application using Selenium WebDriver, Java, and TestNG. The automation framework is designed to test essential functionalities across various pages of the [E-commerce web application](https://magento.softwaretestingboard.com/), ensuring reliability and efficiency in the testing process.
 
 ## Features
 
