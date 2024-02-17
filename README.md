@@ -9,7 +9,7 @@ This project demonstrates automated testing of an e-commerce web application usi
 - **TestNG Annotations**: Utilized TestNG annotations such as `@Test`, `@BeforeMethod`, and `@AfterMethod` for organized test execution and setup/cleanup procedures.
 - **Properties Files**: Integrated properties files for managing test data and configurations, enhancing flexibility and ease of maintenance.
 - **High Reliability**: Demonstrated high reliability with a 90% test success rate, minimizing false positives and ensuring accurate testing outcomes.
-- **GitHub Link**: [Link to GitHub Repository] (https://github.com/pradyumna632/Ecommerce-Web-Automation-using-POM)
+- **GitHub Link**: [Link to GitHub Repository](https://github.com/pradyumna632/Ecommerce-Web-Automation-using-POM)
 
 ## Achievements
 
